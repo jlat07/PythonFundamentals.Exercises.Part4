@@ -14,6 +14,19 @@ The program should meet the following criteria.
 * If the number is a multiple of 5, print "Buzz" instead of the number.
 * If the number is a multiple of both 3 and 5, print "FizzBuzz" instead of the number.
 
+for FizzBuzz in range(100):
+	if FizzBuzz % 3 == 0 and FizzBuzz % 5 == 0:
+		print("FizzBuzz")
+		continue
+	else fizzbuzz % 3 == 0:
+		print("Fizz")
+		continue
+	elif fizzbuzz % 5 == 0:
+		print("Buzz")
+		continue
+	print(FizzBuzz)	
+
+
 
 ## Exercise 2
 
