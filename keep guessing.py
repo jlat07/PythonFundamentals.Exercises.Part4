@@ -20,5 +20,4 @@ def higher_or_lower():
       print("Correct!")
 
     
-    
 higher_or_lower()
